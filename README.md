@@ -4,7 +4,7 @@ Using models and texture from game Gothic 2 as placeholder.
 ![Alt text](/example4.png?raw=true "example")
 
 ![Alt text](/example5.png?raw=true "example")
-
+Fast and dynamic mesh slicing.
 ![Alt text](/example.jpg?raw=true "example")
 Here using ImGui for debug tools and BVH structure for terrain collision detection.
 ![Alt text](/example2.png?raw=true "example")
