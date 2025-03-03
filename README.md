@@ -10,7 +10,7 @@ Below are some example screenshots of the application.
 ![Application window preview - Day](images/image1.png)
 <img src="images/image2.png" alt="Application window preview - Night" width="300" height="300">
 <img src="images/image3.png" alt="Application window preview - Grass" width="600" height="300">
-<img src="images/image4.png" alt="Application window preview - Volumetric light">
+<img src="images/image4.png" alt="Application window preview - Volumetric light" width="150" height="376">
 
 ## Technologies and Libraries Used:
 
